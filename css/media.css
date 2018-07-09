@@ -1,0 +1,123 @@
+@media (max-width: 320px) {
+ 
+}
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  .banner_title h1,h2{
+    font-size: 25px!important;
+    font-weight: 700;
+  }
+  .btn {
+  width: 120px!important;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-size: 10px;
+  color: #fff;
+  }
+  .feature_text  {
+      text-align: center;
+  }
+  .feature_title p {
+    font-size: 14px;
+  }
+  .feature_text p {
+    font-size: 14px;
+  }
+  .single_work {
+    text-align: center;
+    margin-bottom: -50px!important;
+  }
+  .work_procedure {
+    margin-top: -10px!important;
+  }
+  .advertice {
+  }
+  .ad_intro {
+    padding-top: 100px;
+  }
+
+  .ad_intro h4 {
+    text-align: center;
+  }
+  .ad_intro p {
+    text-align: justify;
+  }
+   .mobile_ad {
+    text-align: center;
+  } 
+  .faciliteis_title h4 {
+    font-size: 38px!important;
+  }
+  .faciliteis_title p {
+    font-size: 10px;
+  }
+  .faciliteis_img {
+    text-align: center;
+  }
+  .location {
+  background-image: url(../images/map1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 295px;
+  /*position: relative;*/
+  }
+  .location_details h6{
+  margin-top:50px;
+  }
+.location_details p {
+  margin-bottom: -66px;
+  color: #282828;
+  font-size: 16px;
+  }
+  .footer_title p {
+    font-size: 16px!important;
+  }
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .feature_title h3 {
+      font-size: 25px;
+    }
+    .feature_title p {
+      font-size: 16px;
+    }
+    .feature_text p {
+    font-size: 10px!important;
+    }
+    .faciliteis_title p {
+     font-size: 10px;
+    }
+    .footer_title p{
+     font-size: 14px!important;
+    }
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+   .feature_text p {
+    font-size: 13px!important;
+   }
+    .faciliteis_title p {
+     font-size: 16px;
+    }
+    .ex {
+      margin-top: -20px;
+    }
+    .faciliteis_img p {
+      font-size: 10px;
+    }
+   .footer_title p{
+   font-size: 15px!important;
+    }
+  
+ }
+
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }

@@ -1,0 +1,192 @@
+/*header*/
+.header {
+	background-image: url(../images/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 550px;
+	padding-top: 20px;
+}
+.navbar img {
+   margin-top: -10px;
+}
+.navbar span {
+	color: #fff;
+	font-size: 30px;
+	padding-left: 10px;
+	font-family: 'Roboto', sans-serif;
+}
+.custom_nav ul li a {
+	color: #B2B2B1!important;
+	font-size: 16px;
+	padding:16px 20px;
+	font-weight: 700;
+
+}
+.banner_title{
+  padding-top: 180px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+
+}
+.banner_title h1,h2 {
+  font-size: 45px;
+  font-weight: 700;
+}
+.banner_title h2 {
+	font-size: 45px;
+	font-weight: 700;
+}
+.btn {
+ background-color: #DE4627;
+ margin-top: 10px;
+ width: 140px;
+ border-radius: 20px;
+ text-transform: uppercase;
+ font-size: 12px;
+ color: #fff;
+}
+/*end header*/
+/*start feature*/
+.feature {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.feature_title h3 {
+ font-size: 40px;
+ font-weight: 700;
+ font-family: 'Roboto', sans-serif;
+ color: #282828;
+
+}
+.feature_title p {
+	color: #767676;
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+.feature_text img {
+	padding-bottom: 20px;
+
+}
+.feature_text p {
+ font-size: 16px;
+ color: #767676;
+}
+/*end feature*/
+/*start procedure*/
+.work_procedure {
+	background-image: url(../images/work_bg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 300px;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+.procedure_title h2 {
+  color:#282828;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+}
+.procedure_title p {
+ color: #767676;
+ font-size: 17px;
+ font-family: 'Roboto', sans-serif;
+ padding-bottom: 30px;
+}
+/*end procedure*/
+/*start advertice*/
+.advertice {
+	padding-top:40px;
+	padding-bottom: 40px;
+}
+.ad_intro {
+	padding-top: 200px;
+}
+.ad_intro h4 {
+  font-size: 35px!important;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+}
+.ad_intro p {
+	font-size: 18px;
+	color: #B0B0B0;
+}
+.mobile_ad {
+	margin-top:80px;
+}
+.mobile_ad img {
+  width: 300px;
+  height: 500px;
+}
+/*end advertice*/
+/*start facilities*/
+.facilities {
+	padding-top:40px;
+	padding-bottom: 45px;
+
+}
+.faciliteis_title h4,p {
+	font-size: 40px;
+	font-weight: 700;
+	color: #282828;
+	padding-bottom: 20px;
+}
+.facilities_text {
+	font-size: 25px;
+	color: #B0B0B0;
+	padding-bottom: 50px;
+	font-weight: normal;
+}
+.faciliteis_img img{
+	padding-bottom: 20px;
+}
+.faciliteis_img p{
+	font-size: 14px;
+}
+/*end facilities*/
+
+/*start agency*/
+.agency_intro {
+
+}
+.agency_details p {
+	font-size: 16px!important;
+}
+/*end agency*/
+/*start location*/
+.location {
+	background-image: url(../images/map1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 500px;
+	/*position: relative;*/
+}
+.location_details h6{
+  margin-top:110px;
+  color: #B0B0B0;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+.location_details p {
+	margin-bottom: -100px;
+	color: #282828;
+	font-size: 22px;
+	font-weight: 700;
+	font-family: 'Roboto', sans-serif;
+}
+.footer{
+	padding:40px 0px;
+}
+.footer_title p{
+	font-size: 16px!important;
+	color: #B0B0B0;
+	font-weight: normal;
+}
+.footer_title i {
+	color: #777777;
+	font-size: 20px;
+}
+/*end location
